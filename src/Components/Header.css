@@ -1,0 +1,27 @@
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #696565;
+    width: 100%;
+  }
+  
+  .auto {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .hustle {
+    color: black;
+    font-weight: bold;
+    border: 1px;
+    background-color: green;
+  }
+
+  .under_title{
+    font-size: 15px;
+  }
+  
+  .title{
+    font-size: 30px;
+  }
+  
