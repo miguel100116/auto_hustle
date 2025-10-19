@@ -111,7 +111,7 @@ function About() {
         </motion.div>
       </div>
 
-      {/* Fixed Back Button */}
+
       <div className="fixed bottom-6 left-0 right-0 flex justify-center">
         <motion.button
           whileHover={{ scale: 1.05 }}
